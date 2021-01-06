@@ -1,3 +1,8 @@
 {
-    "editor.autoSave": "on"
+    "editor.autoSave": "off",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.wordBasedSuggestions": true,
+    "javascript.suggest.names": false
 }
